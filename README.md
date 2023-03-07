@@ -5,7 +5,7 @@
 * contate-me no e-mail:josevegin12@gmail.com.
 
 
-            <i class="devicon-androidstudio-plain"></i>
+          
           
 <div align="center">
   <a href="https://github.com/J0SE12">
